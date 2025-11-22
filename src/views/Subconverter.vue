@@ -779,6 +779,10 @@ export default {
               {
                 label: "Basic",
                 value: "https://raw.githubusercontent.com/SleepyHeeead/subconverter-config/master/remote-config/special/basic.ini"
+              },
+              {
+                label: "链式代理+金融分流",
+                value: "github.com/0x1233333/ACL4SSR/blob/master/Clash/config/ACL4SSR_Online.ini"
               }
             ]
           }
@@ -1311,4 +1315,5 @@ export default {
   }
 };
 </script>
+
 
