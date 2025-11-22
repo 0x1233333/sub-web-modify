@@ -341,13 +341,7 @@ export default {
           "自用": "https://subconverter.0x0000.top",
         },
         backendOptions: [
-          { value: "https://subapi.cmliussss.net" },
-          { value: "https://subapi.fxxk.dedyn.io" },
-          { value: "https://url.v1.mk" },
-          { value: "https://sub.d1.mk" },
-          { value: "https://www.nameless13.com" },
-          { value: "https://sub.xeton.dev" },
-          { value: "https://api.wcc.best" },
+          { value: "https://subconverter.0x0000.top" },
         ],
         remoteConfig: [
           {
@@ -1308,6 +1302,7 @@ export default {
   }
 };
 </script>
+
 
 
 
