@@ -790,7 +790,7 @@ export default {
         clientType: "",
         customBackend: this.getUrlParam() == "" ? "https://subconverter.0x0000.top" : this.getUrlParam(),
         shortType: "https://v1.mk/short",
-        remoteConfig: "https://raw.githubusercontent.com/cmliu/ACL4SSR/main/Clash/config/ACL4SSR_Online.ini",
+        remoteConfig: "https://raw.githubusercontent.com/0x1233333/ACL4SSR/refs/heads/master/Clash/config/ACL4SSR_Online-GAI-mini.ini",
         excludeRemarks: "",
         includeRemarks: "",
         filename: "",
@@ -1312,6 +1312,7 @@ export default {
   }
 };
 </script>
+
 
 
 
