@@ -344,6 +344,16 @@ export default {
           { value: "https://subconverter.0x0000.top" },
         ],
         remoteConfig: [
+              {
+                label: "自用",
+                options: [
+              {
+                label: "我的 ACL4SSR 精简版",
+                value: "https://raw.githubusercontent.com/0x1233333/ACL4SSR/refs/heads/master/Clash/config/ACL4SSR_Online-GAI-mini.ini"
+              }
+            ]
+          },
+          {
           {
             label: "CM规则",
             options: [
@@ -1302,6 +1312,7 @@ export default {
   }
 };
 </script>
+
 
 
 
