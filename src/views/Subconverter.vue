@@ -354,7 +354,6 @@ export default {
             ]
           },
           {
-          {
             label: "CM规则",
             options: [
               {
@@ -1312,6 +1311,7 @@ export default {
   }
 };
 </script>
+
 
 
 
